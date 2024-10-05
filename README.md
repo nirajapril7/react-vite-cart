@@ -1,3 +1,15 @@
-# react-vite-cart
+# React Vite Cart
 Shopping cart application using react with vite
-![Screen Recording 2024-10-05 at 1 08 12 PM](https://github.com/user-attachments/assets/cef6bacb-eca1-4b69-b295-3c890f38ab05)
+
+![react-vite-cart-demo](https://github.com/user-attachments/assets/a97684d8-4ab5-486e-9c41-93962b214d1d)
+
+
+## Setup
+Goto the project folder and install required dependencies:
+npm install
+
+And run project:
+npm run dev
+
+Project will be automatically open at http://localhost:5173/
+
